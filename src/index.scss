@@ -1,0 +1,16 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: black;
+    color: salmon;
+}
+
+.btn {
+    margin: 1%;
+}
+
+#important-text {
+    p {
+        color: goldenrod;
+  }
+}
